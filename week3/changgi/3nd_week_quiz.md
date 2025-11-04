@@ -89,7 +89,7 @@
 
  1. EBS gp2 드라이브 사용
  2. EBS io1 드라이브 사용
- 3. EC2 인스턴스 스토어 사용 v
+ 3. EC2 인스턴스 스토어 사용 
  4. EBS io2 Block Express 드라이브 사용
 
  ### ans : 2번
