@@ -86,9 +86,9 @@
 | 3  | 10/14   |     EC2-Associate, EC2-Storage          |  ✅ |
 | 4  | 10/21   |    Route53, VPC            |  ✅ |
 | 5  | 10/28   | Scalability & High Avaliability, RDS   |  ✅ |
-| 6  | 11/4   |   Machine Learning  |  🔄 |
-| 7  | …       |  |  ⬜️ |
-| 8  | …       |  |  ⬜️ |
+| 6  | 11/4   |   Machine Learning  |  ✅  |
+| 7  | 11/11       | Container : ECS, Fargate, ECR, EKS |  ✅  |
+| 8  | 11/19       | S3, S3: Moving between Storage Classes, Lifecy |  🔄 |
 
 > ✅ 완료 / 🔄 진행중 / ⬜️ 예정
 
